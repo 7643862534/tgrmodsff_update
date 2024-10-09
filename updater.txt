@@ -16,3 +16,7 @@ Nuevo Systema de Actualización
 }
   ]
 }
+{app_name_} "tgr mods vip"
+   {button} "Login"
+@drable_background-"#ffffff"
+id/button "login.php.tgr.mods"
